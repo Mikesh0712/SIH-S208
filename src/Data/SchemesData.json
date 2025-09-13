@@ -213,7 +213,7 @@
     "category": "Training",
     "link": "https://agricoop.nic.in/",
     "emoji": "📜",
-    "image": "https://source.unsplash.com/featured/?training"
+    "image": "/images/Farm-Cert.png"
   },
   {
     "name": "Drones for Precision Farming",
@@ -223,4 +223,5 @@
     "emoji": "🛸",
     "image": "/images/Drone.jpg"
   }
+
 ]
